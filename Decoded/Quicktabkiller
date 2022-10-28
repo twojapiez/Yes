@@ -1,5 +1,4 @@
-alert('Yo chrome fucking failed enjoy the crash bitch');
- txt = "a";
+txt = "a";
  while(1){
  txt = txt += "a";  
  }
