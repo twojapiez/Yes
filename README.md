@@ -12,4 +12,4 @@ Quicktabkiller: same thing just faster
 
 VBS disc: opens CD tray in loop (save in .VBS)
 
-KeySpammmer: Spams numlock capslock scrolllock and printscreen to limit any functions (freezes most of apps)
+KeySpammmer: Spams numlock capslock scrolllock and printscreen to limit any functions freezes most of apps (save in .vbs)
