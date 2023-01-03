@@ -1,5 +1,0 @@
-let i = 1;
-while (i < 999); {
-  alert('Yo mama fat                                                                                                                                                                                                   goofy ahh');
-  i++;
-}
